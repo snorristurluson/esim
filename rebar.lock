@@ -1,0 +1,4 @@
+[{<<"lager">>,
+  {git,"https://github.com/basho/lager",
+       {ref,"4fcb8fd40f6ab7a3fa30f4d5b559a10788ac7886"}},
+  0}].
